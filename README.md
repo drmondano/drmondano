@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-I'm a second year at UNC Chapel Hill. I'm very interested in the field of computer science, and particularly it's ever-evolving nature. I'm a big believer in continuous growth and learning and I love how within the field there's limitless opportunities for both. I'm currently particularly interested in full-stack development and am trying to improve my abilities in that regard.
+I'm a second year at UNC Chapel Hill. I'm very interested in the field of computer science, and particularly it's ever-evolving nature. I'm a big believer in continuous growth and learning and I love how within the field there's limitless opportunities for both. I'm currently interested in full-stack development and software engineering, and am trying to improve my abilities in that regard.
 
 ## Skills
 Public speaking, Canva, Communication, Problem-solving, Conflict-management, Singing, Cooking
